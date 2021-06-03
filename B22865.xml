@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A farewel to Graves-end. Where noble seamen spend their coyn, why should they be abus'd: then let them stay from thence away, where they are strangely us'd. Tune of, Hey boys up go we.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22865</idno><idno type="EEBO-CITATION">99888087</idno>
+  <idno type="VID">193145</idno>
+  <idno type="EEBO-PROQUEST">2248541818</idno>
+  
+            <idno type="STC">Wing F423</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[3]</idno>
+            <idno type="STC">ESTC R229003</idno>
+            <idno type="PROQUEST">ocm99888087</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888087e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193145)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A farewel to Graves-end. Where noble seamen spend their coyn, why should they be abus'd: then let them stay from thence away, where they are strangely us'd. Tune of, Hey boys up go we.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel in Guilt-spur street, without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "The wanton girls of Graves-end town".</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Imperfect: stained, affecting legibility.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193145:1"/>
+            <head>A Farewel to Graves-end.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>Where Noble Seamen spend their Coyn,</hi>
+                  </l>
+                  <l>
+                     <hi>Why should they be abus'd:</hi>
+                  </l>
+                  <l>
+                     <hi>Then let them stay from thence away,</hi>
+                  </l>
+                  <l>
+                     <hi>where they are strangely us'd.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>
+               <hi>Tune of, <hi>Hey Boys up go we.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe wanton Girls of Graves-end Town</l>
+               <l>have now quite lost my heart;</l>
+               <l>Maintained by the Seamen brave,</l>
+               <l>but ne're will take their part:</l>
+               <l>They'r foolish, I and simple too,</l>
+               <l>yea, pampered also,</l>
+               <l>I'le nothing have with them to do,</l>
+               <l>
+                  <hi>for a trick that I do know.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The first that ever came to town,</l>
+               <l>she was right Pintle bred,</l>
+               <l>A Girl that true and constant is,</l>
+               <l>to please men in the Bed:</l>
+               <l>While you have Gold and Silver store,</l>
+               <l>she'l any whether go,</l>
+               <l>But now I will trust her no more,</l>
+               <l>
+                  <hi>for a trick that I do know.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There is a bonny handsome Girl,</l>
+               <l>that Lives beneath the Sun,</l>
+               <l>A wench thats kind and willing too,</l>
+               <l>and ready for a run:</l>
+               <l>She'l walk with you from place to place,</l>
+               <l>where e're you please to go,</l>
+               <l>She'l kiss and play, both night and day;</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Another Girl there is also,</l>
+               <l>as Fierce as any Dragon,</l>
+               <l>She kindness will unto you show,</l>
+               <l>if you call for your Flaggon:</l>
+               <l>And when your money doth fall short,</l>
+               <l>she'l say 'tis time to go,</l>
+               <l>And there you must no longer sport,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Over the way, I dare to say,</l>
+               <l>if you do think it fit,</l>
+               <l>There you may have a Girl most brave,</l>
+               <l>has neither fear nor wit:</l>
+               <l>From ten pound to a shilling, she</l>
+               <l>will stoop, though 'tis too low</l>
+               <l>Her Love I will no longer be,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There is another Vaulting School,</l>
+               <l>that is within the Town,</l>
+               <l>Of any man they'l make a fool,</l>
+               <l>when drink gets in his Crown:</l>
+               <l>But now I think, by Loving Chink,</l>
+               <l>the Sign is pull'd full Low,</l>
+               <l>Then have a care, and come not there,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Another house is in the Town,</l>
+               <l>that I shall ne'r forget;</l>
+               <l>There Fortune once on me did frown,</l>
+               <l>I lost both Coyn and wit:</l>
+               <l>My head was brought down to the ground,</l>
+               <l>methought exceeding low,</l>
+               <l>But I'le come there no more, I swear,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There's more that live in <hi>Graves-end</hi> town,</l>
+               <l>that here I will not name,</l>
+               <l>To their disgrace it would redound,</l>
+               <l>and be much to their shame:</l>
+               <l>About <hi>Koa</hi> they most do dwell,</l>
+               <l>I am informed so,</l>
+               <l>I'le ne'r come there, into their Snare,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Neptunes brave Boys now look about,</l>
+               <l>that venture lives for money,</l>
+               <l>And why should you that are so stout,</l>
+               <l>thus dote upon a Conney:</l>
+               <l>When tis too late you may repent,</l>
+               <l>and some have found it so,</l>
+               <l>
+                  <hi>Gravesend</hi> ne'r will your Pockets fill,</l>
+               <l>
+                  <hi>for a trick, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He that is wise, let him despise,</l>
+               <l>such wenches as are there,</l>
+               <l>And you that had your pockets pickt,</l>
+               <l>I hope will have a care:</l>
+               <l>And come no more, upon that Shore,</l>
+               <l>where you were served so,</l>
+               <l>Be your own friend, and leave <hi>Graves-end,</hi>
+               </l>
+               <l>
+                  <hi>for a trick that I do know.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J. Deacon, <hi>at the</hi> Angel <hi>in</hi> Guilt-spur street, <hi>without</hi> Newgate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
